@@ -7,7 +7,7 @@ HTML++ looks similar to regular HTML5, but with some differences. Note that B9 i
 Same as regular HTML5, the `html` tag, with the `head` for metadata and `body` for your page's content.
 
 {% code title="index.html" overflow="wrap" lineNumbers="true" %}
-```html
+```html title="index.html" overflow="wrap" lineNumbers="true"
 <html>
   <head>
     <!--head stuff-->
